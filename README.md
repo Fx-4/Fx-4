@@ -103,14 +103,17 @@ An AI platform for generating and developing creative ideas through intuitive br
 
 ---
 
-## 📊 GitHub Activity
+## 🐍 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Fx-4&show_icons=true&hide_border=true&bg_color=0A1628&title_color=E8B55A&icon_color=1DB89A&text_color=F0EFED" alt="Kall's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fx-4&layout=compact&hide_border=true&bg_color=0A1628&title_color=E8B55A&text_color=F0EFED" alt="Top languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fx-4/Fx-4/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fx-4/Fx-4/output/github-snake.svg" />
+  <img alt="Kall's GitHub contribution snake" src="https://raw.githubusercontent.com/Fx-4/Fx-4/output/github-snake.svg" />
+</picture>
 
-<img src="https://streak-stats.demolab.com/?user=Fx-4&hide_border=true&background=0A1628&stroke=E8B55A&ring=E8B55A&fire=E8B55A&currStreakLabel=F0EFED&sideLabels=F0EFED&currStreakNum=F0EFED&sideNums=F0EFED&dates=1DB89A" alt="GitHub streak stats" />
+*A snake that eats its way through my real contribution graph — regenerated daily by GitHub Actions itself, so no third-party server to go down.*
 
 </div>
 
